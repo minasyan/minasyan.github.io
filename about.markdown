@@ -1,18 +1,20 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Publications
+permalink: /publications/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<sup> \* denotes alphabetical order </sup>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+- [Adaptive Regret for Control of Time-Varying Dynamics](https://arxiv.org/pdf/2007.04393.pdf)  
+\*Paula Gradu, Elad Hazan, Edgar Minasyan  
+*Preprint*
+- [Faster Projection-free Online Learning](http://proceedings.mlr.press/v125/hazan20a/hazan20a.pdf)  
+\*Elad Hazan, Edgar Minasyan  
+*COLT 2020*
+- [Predicate Exchange: Inference with Declarative Knowledge](http://proceedings.mlr.press/v97/tavares19a/tavares19a.pdf)  
+Zenna Tavares, Javier Burroni, Edgar Minasyan, Armando Solar-Lezama, Rajesh Ranganath  
+*ICML 2019*
+- [Hockey-Stick GAN](https://openreview.net/pdf?id=HJOt7P1wz)  
+Edgar Minasyan, Vinay Uday Prabhu  
+*ICLR 2018*, workshop track
