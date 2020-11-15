@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+See also [Google Scholar](https://scholar.google.com/citations?hl=en&user=HjWpRCIAAAAJ).
+
 <sup> \* denotes alphabetical order </sup>
 
 - [Adaptive Regret for Control of Time-Varying Dynamics](https://arxiv.org/pdf/2007.04393.pdf)  

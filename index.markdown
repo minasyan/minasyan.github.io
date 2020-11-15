@@ -4,6 +4,8 @@
 
 layout: home
 ---
+![headshot](informal_headshot.png)
+
 I am a third year PhD student in the [Computer Science](https://www.cs.princeton.edu) department at [Princeton University](https://www.princeton.edu) where I am fortunate to be advised by [Elad Hazan](https://www.cs.princeton.edu/~ehazan/). 
 
 My research interest is in machine learning theory and algorithms, more specifically areas such as *online learning*, *reinforcement learning and control*, *learning and games*. I am also interested in large scale *convex and nonconvex optimization*.

@@ -25,8 +25,8 @@ email: minasyan@princeton.edu
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-github: minasyan
-linkedin: edgar-minasyan-62a060a3
+github_username: minasyan
+linkedin_username: edgar-minasyan
 
 # Build settings
 theme: minima
