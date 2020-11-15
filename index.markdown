@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<p style="float: left; padding-right: 15px"><img src="informal_headshot.jpg" alt="headshot" width="230" /></p>
+<p style="float: left; padding-right: 15px"><img src="https://raw.githubusercontent.com/minasyan/minasyan.github.io/master/informal_headshot.jpg" alt="headshot" width="230" /></p>
 I am a third year PhD student in the [Computer Science](https://www.cs.princeton.edu) department at [Princeton University](https://www.princeton.edu) where I am fortunate to be advised by [Elad Hazan](https://www.cs.princeton.edu/~ehazan/). 
 
 My research interest is in machine learning theory and algorithms, more specifically areas such as *online learning*, *reinforcement learning and control*, *learning and games*. I am also interested in large scale *convex and nonconvex optimization*.
