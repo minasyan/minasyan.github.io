@@ -45,10 +45,10 @@ Edgar Minasyan, Vinay Uday Prabhu
 ### **Teaching**
 
 - Introduction to Machine Learning (COS324)  
-Teaching Assistant. Princeton University
+*Teaching Assistant* at Princeton University
 - Theoretical Machine Learning (COS511)  
-Teaching Assistant. Princeton University
+*Teaching Assistant* at Princeton University
 - Introduction to Machine Learning (6.036)  
-Teaching Assistant. MIT
+*Teaching Assistant* at MIT
 - Introduction to Machine Learning (6.036)  
-Lab Assistant. MIT
+*Lab Assistant* at MIT
