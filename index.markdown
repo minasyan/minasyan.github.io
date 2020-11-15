@@ -13,7 +13,7 @@ Prior to joining Princeton, I did my undergrad at [MIT](https://www.mit.edu) maj
 
 ---------------------------------
 
-### Publications/Preprints
+### **Publications/Preprints**
 
 <sup> \* denotes alphabetical order </sup>
 
@@ -32,7 +32,7 @@ Edgar Minasyan, Vinay Uday Prabhu
 
 ---------------------------------
 
-### Talks
+### **Talks**
 
 - Adaptive Regret for Control of Time-Varying Dynamics (**Spotlight talk**)  
 	*Theoretical Foundations of Reinforcement Learning* workshop, *ICML* 2020 in June 2020
@@ -42,7 +42,7 @@ Edgar Minasyan, Vinay Uday Prabhu
 
 ----------------------------------
 
-### Teaching
+### **Teaching**
 
 - Introduction to Machine Learning (COS324)  
 Teaching Assistant. Princeton University
