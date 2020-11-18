@@ -7,7 +7,7 @@ layout: home
 <p style="float: left; padding-right: 15px"><img src="https://raw.githubusercontent.com/minasyan/minasyan.github.io/master/informal_headshot.jpg" alt="headshot" width="230" /></p>
 I am a third year PhD student in the [Computer Science](https://www.cs.princeton.edu) department at [Princeton University](https://www.princeton.edu) where I am fortunate to be advised by [Elad Hazan](https://www.cs.princeton.edu/~ehazan/). 
 
-My research interest is in machine learning theory and algorithms, more specifically areas such as *online learning*, *reinforcement learning and control*, *learning and games*. I am also interested in large scale *convex and nonconvex optimization*.
+My research interest is in machine learning theory and algorithms, more specifically *online learning* with use cases in areas such as *reinforcement learning and control*, *learning in games*, etc. I am also interested in large scale *convex and nonconvex optimization*.
 
 Prior to joining Princeton, I did my undergrad at [MIT](https://www.mit.edu) majoring in both math (18) and computer science (6-3). My earlier life was based in Yerevan, Armenia mainly competing in contests like IMO and IOI.
 
