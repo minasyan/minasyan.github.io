@@ -8,14 +8,14 @@ See also [Google Scholar](https://scholar.google.com/citations?hl=en&user=HjWpRC
 
 <sup> \* denotes alphabetical order </sup>
 
-- [Regret Guarantees for Online Deep Control](https://proceedings.mlr.press/v211/chen23b/chen23b.pdf)
-Xinyi Chen, **Edgar Minasyan**, Jason D. Lee, Elad Hazan
+- [Regret Guarantees for Online Deep Control](https://proceedings.mlr.press/v211/chen23b/chen23b.pdf)  
+Xinyi Chen, **Edgar Minasyan**, Jason D. Lee, Elad Hazan  
 *Learning for Dynamics and Control (L4DC) 2023*
-- [Machine Learning for Mechanical Ventilation Control](https://arxiv.org/pdf/2102.06779.pdf)
-Daniel Suo, Cyril Zhang, Paula Gradu, Udaya Ghai, Xinyi Chen, **Edgar Minasyan**, Naman Agarwal, Karan Singh, Julienne LaChance, Tom Zajdel, Manuel Schottdorf, Daniel Cohen, Elad Hazan
+- [Machine Learning for Mechanical Ventilation Control](https://arxiv.org/pdf/2102.06779.pdf)  
+Daniel Suo, Cyril Zhang, Paula Gradu, Udaya Ghai, Xinyi Chen, **Edgar Minasyan**, Naman Agarwal, Karan Singh, Julienne LaChance, Tom Zajdel, Manuel Schottdorf, Daniel Cohen, Elad Hazan  
 *Machine Learning for Health (ML4H) 2021*
-- [Online Control of Unknown Time-Varying Dynamical Systems](https://proceedings.neurips.cc/paper_files/paper/2021/file/856b503e276cc491e7e6e0ac1b9f4b17-Paper.pdf)
-**Edgar Minasyan**, Paula Gradu, Max Simchowitz, Elad Hazan
+- [Online Control of Unknown Time-Varying Dynamical Systems](https://proceedings.neurips.cc/paper_files/paper/2021/file/856b503e276cc491e7e6e0ac1b9f4b17-Paper.pdf)  
+**Edgar Minasyan**, Paula Gradu, Max Simchowitz, Elad Hazan  
 *Neural Information Processing Systems (NeurIPS) 2021*
 - [Adaptive Regret for Control of Time-Varying Dynamics](https://proceedings.mlr.press/v211/gradu23a/gradu23a.pdf)  
 \*Paula Gradu, Elad Hazan, **Edgar Minasyan**  
