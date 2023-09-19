@@ -52,7 +52,7 @@ Zenna Tavares, Javier Burroni, **Edgar Minasyan**, Armando Solar-Lezama, Rajesh 
 	*Theoretical Foundations of Reinforcement Learning* workshop, *ICML* (**Spotlight talk**) in June 2020
 - Faster Projection-free Online Learning  
 	*Conference on Learning Theory (COLT)* in July 2020  
-	Princeton Theoretical Machine Learning Seminar in April 2020
+	*Princeton Theoretical Machine Learning Seminar* in April 2020
 
 ----------------------------------
 
@@ -67,4 +67,4 @@ Zenna Tavares, Javier Burroni, **Edgar Minasyan**, Armando Solar-Lezama, Rajesh 
 - Introduction to Machine Learning (**6.036**)  
 *Teaching Assistant* at **MIT**, Spring 2018
 - Introduction to Machine Learning (**6.036**)  
-*Lab Assistant* at **MIT**, Fall 2019
+*Lab Assistant* at **MIT**, Fall 2017
